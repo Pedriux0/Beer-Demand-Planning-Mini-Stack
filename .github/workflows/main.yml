@@ -71,7 +71,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20.19.0
           cache: 'npm'
           cache-dependency-path: dashboard/package-lock.json
 
@@ -83,7 +83,9 @@ jobs:
 
       - name: Install Node Deps
         working-directory: ./dashboard
-        run: npm ci
+        env:
+          NPM_CONFIG_OPTIONAL: "true"
+        run: npm install --include=optional --no-audit --no-fund
 
       - name: Build Dashboard
         working-directory: ./dashboard
