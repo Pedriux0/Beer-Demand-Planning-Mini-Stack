@@ -28,7 +28,9 @@ jobs:
           cache-dependency-path: dashboard/package-lock.json
       - name: Install dependencies
         working-directory: dashboard
-        run: npm ci
+        env:
+          NPM_CONFIG_OPTIONAL: "true"
+        run: npm install --include=optional --no-audit --no-fund
       - name: Build dashboard
         working-directory: dashboard
         env:
