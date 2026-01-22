@@ -89,6 +89,8 @@ jobs:
 
       - name: Build Dashboard
         working-directory: ./dashboard
+        env:
+          CSS_TRANSFORMER_WASM: "1"
         run: npm run build
 
       - name: Setup Pages
