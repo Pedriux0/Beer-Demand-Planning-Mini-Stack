@@ -1,0 +1,102 @@
+
+name: Beer Planning Pipeline & Dashboard
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 8 * * *" # Daily at 8am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python Deps
+        run: |
+          pip install pandas pandera scikit-learn click openpyxl pytest ruff
+
+      - name: Run Tests
+        run: |
+          python -m pytest tests/test_pipeline.py
+
+      - name: Run Pipeline (Generate Data)
+        run: |
+          python -m pipeline run-all
+        # Note: In real setup we might pull data from S3, 
+        # here we generate synthetic data on the fly.
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-outputs
+          path: data/outputs
+
+      - name: Persist Data for Dashboard
+        # Copy outputs to dashboard/public/data so next job or step pick it up
+        run: |
+          python -m pipeline publish
+
+      - name: Archive Dashboard Public Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: dashboard-data
+          path: dashboard/public/data
+
+  build-deploy:
+    needs: pipeline
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: 'npm'
+          cache-dependency-path: dashboard/package-lock.json
+
+      - name: Download Data Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dashboard-data
+          path: dashboard/public/data
+
+      - name: Install Node Deps
+        working-directory: ./dashboard
+        run: npm ci
+
+      - name: Build Dashboard
+        working-directory: ./dashboard
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dashboard/dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

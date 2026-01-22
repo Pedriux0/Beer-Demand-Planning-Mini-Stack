@@ -1,0 +1,18 @@
+{
+  "name": "beer-demand-planning-mini-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "pipeline": "python -m pipeline run-all",
+    "publish": "python -m pipeline publish",
+    "dev": "npm --prefix dashboard run dev",
+    "test": "python -m pytest tests/test_pipeline.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

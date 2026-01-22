@@ -1,0 +1,2009 @@
+[
+  {
+    "id": "9204183990440",
+    "title": "Ales for ALS Red IPA | Art Reserve",
+    "handle": "rent-collector-nitro-pale-ale-art-reserve-copy",
+    "product_type": "Beer",
+    "tags": [
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/rent-collector-nitro-pale-ale-art-reserve-copy"
+  },
+  {
+    "id": "9124653138088",
+    "title": "Art & Blood IPA (Blood Brothers Brewing Collab)",
+    "handle": "art-blood-ipa-blood-brothers-brewing-collab",
+    "product_type": "Beer",
+    "tags": [
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 4.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/art-blood-ipa-blood-brothers-brewing-collab"
+  },
+  {
+    "id": "5287221625000",
+    "title": "Artisanal Dry Gin",
+    "handle": "artisanal-dry-gin",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "craft",
+      "Gin",
+      "host",
+      "mix",
+      "mixmaster",
+      "spirits"
+    ],
+    "available": false,
+    "price_from": 44.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/artisanal-dry-gin"
+  },
+  {
+    "id": "9011677233320",
+    "title": "Artist Series Glassware | Bene Rohlmann",
+    "handle": "artist-series-glassware-bene-rohlmann",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/artist-series-glassware-bene-rohlmann"
+  },
+  {
+    "id": "9011691716776",
+    "title": "Artist Series Glassware | Zero Deluxe",
+    "handle": "artist-series-glassware-zero-deluxe",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/artist-series-glassware-zero-deluxe"
+  },
+  {
+    "id": "8721810751656",
+    "title": "Artist Series Notebook | James Carey",
+    "handle": "notebook-pos",
+    "product_type": "Merch",
+    "tags": [],
+    "available": false,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/notebook-pos"
+  },
+  {
+    "id": "9212097921192",
+    "title": "Artist Series Pens | Iain MacArthur",
+    "handle": "artist-series-pens-zero-deluxe-copy",
+    "product_type": "",
+    "tags": [
+      "__label:NEW",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 4.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/artist-series-pens-zero-deluxe-copy"
+  },
+  {
+    "id": "9212074164392",
+    "title": "Artist Series Pens | Zero Deluxe",
+    "handle": "notebook-james-carey",
+    "product_type": "",
+    "tags": [
+      "__label:NEW",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 4.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/notebook-james-carey"
+  },
+  {
+    "id": "7788694798504",
+    "title": "Beyond Reason Micro Pale Ale",
+    "handle": "beyond-reason-micro-pale-ale",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "classics",
+      "core",
+      "hamiltonbrew",
+      "Lager",
+      "Pale Ale",
+      "warehouse"
+    ],
+    "available": true,
+    "price_from": 3.45,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/beyond-reason-micro-pale-ale"
+  },
+  {
+    "id": "8531029819560",
+    "title": "Blood Orange & Lime Margarita",
+    "handle": "blood-orange-margarita",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "rtd"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/blood-orange-margarita"
+  },
+  {
+    "id": "8143286796456",
+    "title": "Blood Orange Vanilla BOOST (80mg) | Wide Eyed Energy",
+    "handle": "boost-80mg-blood-orange-vanilla-wide-eyed-energy",
+    "product_type": "Wide Eyed Energy",
+    "tags": [
+      "Boost",
+      "non-alc",
+      "WideEyed"
+    ],
+    "available": false,
+    "price_from": 2.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/boost-80mg-blood-orange-vanilla-wide-eyed-energy"
+  },
+  {
+    "id": "5286203293864",
+    "title": "Blueberry & Elderberry Sparkling Hard Tea",
+    "handle": "sparkling-hard-teas-blueberry-elderberry",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "__label:IT'S BACK!",
+      "cocktail",
+      "cocktails",
+      "limited",
+      "rtd",
+      "tea",
+      "teas"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/sparkling-hard-teas-blueberry-elderberry"
+  },
+  {
+    "id": "8552742125736",
+    "title": "Botany Balance Adaptogenic Elixir: Blueberry, Mango & Acai",
+    "handle": "botany-balance-blueberry-mango-acai",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "Botany Plus",
+      "non-alc"
+    ],
+    "available": true,
+    "price_from": 4.45,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-balance-blueberry-mango-acai"
+  },
+  {
+    "id": "9043583238312",
+    "title": "Botany Black Cherry & Vanilla Fruit Infused Sparkling Water",
+    "handle": "botany-black-cherry-vanilla-fruit-infused-sparkling-water",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "non-alc",
+      "Water"
+    ],
+    "available": true,
+    "price_from": 2.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-black-cherry-vanilla-fruit-infused-sparkling-water"
+  },
+  {
+    "id": "9043586318504",
+    "title": "Botany Cucumber, Lemongrass & Lime Fruit Infused Sparkling Water",
+    "handle": "botany-cucumber-lemongrass-lime-fruit-infused-sparkling-water",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "non-alc",
+      "Water"
+    ],
+    "available": true,
+    "price_from": 2.49,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-cucumber-lemongrass-lime-fruit-infused-sparkling-water"
+  },
+  {
+    "id": "9231016165544",
+    "title": "Botany Energy Berry Lemonade Sampler 6-Pack",
+    "handle": "botany-energy-berry-lemonade-sampler-pack",
+    "product_type": "",
+    "tags": [],
+    "available": true,
+    "price_from": 21.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-energy-berry-lemonade-sampler-pack"
+  },
+  {
+    "id": "9231032778920",
+    "title": "Botany Energy Tropical Citrus Sampler 6-Pack",
+    "handle": "tropical-citrus-sampler-6-pack",
+    "product_type": "",
+    "tags": [],
+    "available": true,
+    "price_from": 21.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/tropical-citrus-sampler-6-pack"
+  },
+  {
+    "id": "8552754479272",
+    "title": "Botany Unwind Adaptogenic Elixir: Lemon, Ginger & Chamomile",
+    "handle": "botany-unwind-lemon-ginger-chamomile",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "Botany Plus",
+      "non-alc"
+    ],
+    "available": true,
+    "price_from": 4.45,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-unwind-lemon-ginger-chamomile"
+  },
+  {
+    "id": "8552756674728",
+    "title": "Botany Uplift Adaptogenic Elixir: Peach, Turmeric & Ginger",
+    "handle": "botany-uplift-peach-turmeric-ginger",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "Botany Plus",
+      "non-alc"
+    ],
+    "available": true,
+    "price_from": 4.45,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-uplift-peach-turmeric-ginger"
+  },
+  {
+    "id": "9043572752552",
+    "title": "Botany White Peach & Cardamom Fruit Infused Sparkling Water",
+    "handle": "botany-white-peach-cardamom-fruit-infused-sparkling-water",
+    "product_type": "non-alc",
+    "tags": [
+      "botany",
+      "non-alc",
+      "Water"
+    ],
+    "available": false,
+    "price_from": 2.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/botany-white-peach-cardamom-fruit-infused-sparkling-water"
+  },
+  {
+    "id": "9229666648232",
+    "title": "C-Star Tee Black",
+    "handle": "c-star-tee-black-2",
+    "product_type": "Apparel",
+    "tags": [
+      "__label:NEW",
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 34.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/c-star-tee-black-2"
+  },
+  {
+    "id": "9209597821096",
+    "title": "Cherry Limeade Sour",
+    "handle": "cherry-limeade-sour-bf",
+    "product_type": "Beer",
+    "tags": [
+      "__label:PRICE DROP",
+      "__label:SALE",
+      "limited",
+      "Sale!",
+      "sour",
+      "sours"
+    ],
+    "available": true,
+    "price_from": 2.3,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/cherry-limeade-sour-bf"
+  },
+  {
+    "id": "7616450101416",
+    "title": "Citrus Gin Collins",
+    "handle": "citrus-gin-collins-1",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "host",
+      "warehouse"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/citrus-gin-collins-1"
+  },
+  {
+    "id": "9209417924776",
+    "title": "Cocktail Mix Pack",
+    "handle": "cocktail-mix-pack-copy",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "__label:SALE",
+      "cocktail",
+      "cocktails",
+      "mixpack",
+      "rtd",
+      "Sale!"
+    ],
+    "available": true,
+    "price_from": 22.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/cocktail-mix-pack-copy"
+  },
+  {
+    "id": "7189062385832",
+    "title": "Collective Arts Beer Club Membership",
+    "handle": "collective-beer-club",
+    "product_type": "",
+    "tags": [
+      "Beer Club",
+      "craft",
+      "express",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 72.99,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-beer-club"
+  },
+  {
+    "id": "9118680187048",
+    "title": "Collective Arts C-Star Snapback | Sage",
+    "handle": "collective-arts-c-star-snapback-green",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 26.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-snapback-green"
+  },
+  {
+    "id": "9146211270824",
+    "title": "Collective Arts C-Star Tee | Mauve",
+    "handle": "collective-arts-c-star-tee-mauve",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 34.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-tee-mauve"
+  },
+  {
+    "id": "9148665954472",
+    "title": "Collective Arts C-Star Toque | Black",
+    "handle": "collective-arts-c-star-toque-black",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 19.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-toque-black"
+  },
+  {
+    "id": "9148651995304",
+    "title": "Collective Arts C-Star Toque | Dusty Rose",
+    "handle": "collective-arts-c-star-toque-dusty-rose",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 29.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-toque-dusty-rose"
+  },
+  {
+    "id": "9148664578216",
+    "title": "Collective Arts C-Star Toque | Olive Green",
+    "handle": "collective-arts-c-star-toque-olive-green",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 29.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-toque-olive-green"
+  },
+  {
+    "id": "9148665561256",
+    "title": "Collective Arts C-Star Toque | Orange",
+    "handle": "collective-arts-c-star-toque-orange",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 19.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-toque-orange"
+  },
+  {
+    "id": "9148665135272",
+    "title": "Collective Arts C-Star Toque | Red",
+    "handle": "collective-arts-c-star-toque-red",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 19.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-toque-red"
+  },
+  {
+    "id": "9118683627688",
+    "title": "Collective Arts C-Star Woven Snapback | Forest Green",
+    "handle": "collective-arts-c-star-woven-snapback-forest-green",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 34.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-woven-snapback-forest-green"
+  },
+  {
+    "id": "9118681956520",
+    "title": "Collective Arts C-Star Woven Snapback | Khaki",
+    "handle": "collective-arts-c-star-woven-snapback-khaki",
+    "product_type": "Apparel",
+    "tags": [
+      "hat",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 34.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-c-star-woven-snapback-khaki"
+  },
+  {
+    "id": "9229669925032",
+    "title": "Collective Arts Crewneck | Alpine Green",
+    "handle": "collective-arts-pigment-dye-crewneck-alpine-green-1",
+    "product_type": "Apparel",
+    "tags": [
+      "__label:NEW",
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 59.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-pigment-dye-crewneck-alpine-green-1"
+  },
+  {
+    "id": "6823990460584",
+    "title": "Collective Arts Digital Gift Card",
+    "handle": "collective-arts-gift-card",
+    "product_type": "Gift Card",
+    "tags": [
+      "gift card",
+      "gift cards",
+      "merch",
+      "stocking"
+    ],
+    "available": true,
+    "price_from": 15.0,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-gift-card"
+  },
+  {
+    "id": "9146212155560",
+    "title": "Collective Arts Drink Creatively Tee",
+    "handle": "collective-arts-drink-creatively-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 34.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-drink-creatively-tee"
+  },
+  {
+    "id": "9229663961256",
+    "title": "Collective Arts Long Sleeve | Faded Bone",
+    "handle": "collective-arts-long-sleeve-faded-bone-1",
+    "product_type": "Apparel",
+    "tags": [
+      "__label:NEW",
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 44.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-long-sleeve-faded-bone-1"
+  },
+  {
+    "id": "9118660264104",
+    "title": "Collective Arts | DAWD Tee",
+    "handle": "collective-arts-dawd-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 39.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-dawd-tee"
+  },
+  {
+    "id": "9146205896872",
+    "title": "Collective Arts | David Broadbent Tee",
+    "handle": "collective-arts-david-broadbent-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 39.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-david-broadbent-tee"
+  },
+  {
+    "id": "9118664425640",
+    "title": "Collective Arts | Hardworth Tee",
+    "handle": "collective-arts-hardworth-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 39.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-hardworth-tee"
+  },
+  {
+    "id": "9118653251752",
+    "title": "Collective Arts | Iain Macarthur Tee",
+    "handle": "collective-arts-iain-macarthur-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 39.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-iain-macarthur-tee"
+  },
+  {
+    "id": "9146210353320",
+    "title": "Collective Arts | Ladies Tee",
+    "handle": "collective-arts-ladies-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 34.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-ladies-tee"
+  },
+  {
+    "id": "9118672650408",
+    "title": "Collective Arts | Rose Rondelle Tee",
+    "handle": "collective-arts-rose-rondelle-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 34.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-rose-rondelle-tee"
+  },
+  {
+    "id": "9146208420008",
+    "title": "Collective Arts | yaicecream Tee",
+    "handle": "collective-arts-yaicecream-tee",
+    "product_type": "Apparel",
+    "tags": [
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 39.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-yaicecream-tee"
+  },
+  {
+    "id": "7761444372648",
+    "title": "Collective Lager",
+    "handle": "collective-lager",
+    "product_type": "Beer",
+    "tags": [
+      "core",
+      "Lager",
+      "Year Round"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-lager"
+  },
+  {
+    "id": "8921976930472",
+    "title": "Collective Lite",
+    "handle": "collective-lite",
+    "product_type": "Beer",
+    "tags": [
+      "core",
+      "Lager",
+      "Year Round"
+    ],
+    "available": true,
+    "price_from": 10.65,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-lite"
+  },
+  {
+    "id": "8346211647656",
+    "title": "Collective Pilsner",
+    "handle": "collective-pilsner",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "core",
+      "Lager",
+      "Year Round"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-pilsner"
+  },
+  {
+    "id": "7776868401320",
+    "title": "Daily Forecast: Mimosa Sour (355ml)",
+    "handle": "daily-forecast-mimosa-short-cans",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "core",
+      "limited",
+      "ltd",
+      "sour",
+      "warehouse",
+      "Year Round"
+    ],
+    "available": true,
+    "price_from": 2.95,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/daily-forecast-mimosa-short-cans"
+  },
+  {
+    "id": "9128518549672",
+    "title": "Daphna Sebbane Sticker Sheet",
+    "handle": "daphna-sebbane-sticker-sheet",
+    "product_type": "Merch",
+    "tags": [
+      "GWP",
+      "merch",
+      "Promo",
+      "Sticker"
+    ],
+    "available": true,
+    "price_from": 5.0,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/daphna-sebbane-sticker-sheet"
+  },
+  {
+    "id": "9177915719848",
+    "title": "Daphna Sebbane | Mug",
+    "handle": "daphna-sebbane-mug",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/daphna-sebbane-mug"
+  },
+  {
+    "id": "9177898352808",
+    "title": "Daphna Sebbane | Tumbler Glass",
+    "handle": "daphna-sebbane-tumbler-glass",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/daphna-sebbane-tumbler-glass"
+  },
+  {
+    "id": "9229632405672",
+    "title": "Drink Creatively Hoodie | Icy Rock",
+    "handle": "collective-arts-drink-creatively-tee-copy",
+    "product_type": "Apparel",
+    "tags": [
+      "__label:NEW",
+      "merch",
+      "tee"
+    ],
+    "available": true,
+    "price_from": 79.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/collective-arts-drink-creatively-tee-copy"
+  },
+  {
+    "id": "9177876955304",
+    "title": "Erica Zeledo\u0301n | Tumbler Glass",
+    "handle": "erica-zeledon-tumbler",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/erica-zeledon-tumbler"
+  },
+  {
+    "id": "9236301054120",
+    "title": "Ginger Hibiscus Sour | Art Reserve",
+    "handle": "ginger-hibiscus-sour-art-reserve",
+    "product_type": "Beer",
+    "tags": [
+      "__label:NEW",
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/ginger-hibiscus-sour-art-reserve"
+  },
+  {
+    "id": "6262987063464",
+    "title": "Good Monster NEDIPA",
+    "handle": "good-monster-dipa",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "core",
+      "hamiltonbrew",
+      "IPA"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/good-monster-dipa"
+  },
+  {
+    "id": "9209724862632",
+    "title": "Guava Gose (355ml)",
+    "handle": "guava-gose-bf-355ml-copy",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "__label:SALE",
+      "core",
+      "hamiltonbrew",
+      "Sale!",
+      "sour"
+    ],
+    "available": true,
+    "price_from": 1.37,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/guava-gose-bf-355ml-copy"
+  },
+  {
+    "id": "5286234390696",
+    "title": "Hazy State Session NEIPA",
+    "handle": "hazy-state",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "core",
+      "hamiltonbrew",
+      "IPA"
+    ],
+    "available": false,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/hazy-state"
+  },
+  {
+    "id": "5286382829736",
+    "title": "Jam Up The Mash Dry Hopped Sour",
+    "handle": "jam-up-the-mash-dry-hopped-sour",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "core",
+      "hamiltonbrew",
+      "Sour"
+    ],
+    "available": true,
+    "price_from": 3.95,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/jam-up-the-mash-dry-hopped-sour"
+  },
+  {
+    "id": "6023351435432",
+    "title": "Lavender & Juniper Gin",
+    "handle": "gin-lavender-juniper",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Gin",
+      "host",
+      "mix",
+      "mixmaster"
+    ],
+    "available": true,
+    "price_from": 46.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/gin-lavender-juniper"
+  },
+  {
+    "id": "8143291220136",
+    "title": "Lemon Berry BOOST (80mg) | Wide Eyed Energy",
+    "handle": "boost-80mg-lemon-berry-wide-eyed-energy",
+    "product_type": "Wide Eyed Energy",
+    "tags": [
+      "Boost",
+      "non-alc",
+      "WideEyed"
+    ],
+    "available": true,
+    "price_from": 2.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/boost-80mg-lemon-berry-wide-eyed-energy"
+  },
+  {
+    "id": "5286392987816",
+    "title": "Life in the Clouds NEIPA",
+    "handle": "life-in-the-clouds-ipa",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "classics",
+      "core",
+      "hamiltonbrew",
+      "IPA"
+    ],
+    "available": true,
+    "price_from": 3.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/life-in-the-clouds-ipa"
+  },
+  {
+    "id": "9209206341800",
+    "title": "Life in the Clouds NEIPA (355ml 6-Pack)",
+    "handle": "life-in-the-clouds-neipa-355ml-6-pack-copy",
+    "product_type": "Beer",
+    "tags": [
+      "__label:SALE",
+      "classics",
+      "core",
+      "IPA",
+      "Sale!"
+    ],
+    "available": true,
+    "price_from": 14.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/life-in-the-clouds-neipa-355ml-6-pack-copy"
+  },
+  {
+    "id": "8214571876520",
+    "title": "Local Press Apple & Cherry Cider",
+    "handle": "local-press-apple-cherry-cider",
+    "product_type": "Cider",
+    "tags": [
+      "Cider",
+      "core"
+    ],
+    "available": true,
+    "price_from": 3.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/local-press-apple-cherry-cider"
+  },
+  {
+    "id": "8214580199592",
+    "title": "Local Press Apple Cider",
+    "handle": "local-press-apple-cider",
+    "product_type": "Cider",
+    "tags": [
+      "Cider",
+      "core"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/local-press-apple-cider"
+  },
+  {
+    "id": "8143293153448",
+    "title": "Mango Peach MAX (140mg) | Wide Eyed Energy",
+    "handle": "max-140mg-mango-peach-wide-eyed-energy",
+    "product_type": "Wide Eyed Energy",
+    "tags": [
+      "Max",
+      "non-alc",
+      "WideEyed"
+    ],
+    "available": false,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/max-140mg-mango-peach-wide-eyed-energy"
+  },
+  {
+    "id": "7144319221928",
+    "title": "Maple Syrup Barrel-Aged Rum",
+    "handle": "maple-syrup-barrel-aged-rum",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Gin",
+      "limited",
+      "mixmaster",
+      "rum"
+    ],
+    "available": false,
+    "price_from": 64.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/maple-syrup-barrel-aged-rum"
+  },
+  {
+    "id": "7861800304808",
+    "title": "Mellow Mojito | Zero Proof Cocktail",
+    "handle": "mellow-mojito-zero-proof-cocktail",
+    "product_type": "non-alc",
+    "tags": [
+      "host",
+      "non-alc",
+      "sober",
+      "Zero Proof"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/mellow-mojito-zero-proof-cocktail"
+  },
+  {
+    "id": "8211829555368",
+    "title": "Midday Mule | Zero Proof Cocktail",
+    "handle": "midday-mule-zero-proof-cocktail-1",
+    "product_type": "non-alc",
+    "tags": [
+      "non-alc",
+      "warehouse",
+      "Zero Proof"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/midday-mule-zero-proof-cocktail-1"
+  },
+  {
+    "id": "8984316477608",
+    "title": "Mindful Margarita | Zero Proof Cocktail",
+    "handle": "mindful-margarita-zero-proof-cocktail",
+    "product_type": "non-alc",
+    "tags": [
+      "host",
+      "non-alc",
+      "sober",
+      "Zero Proof"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/mindful-margarita-zero-proof-cocktail"
+  },
+  {
+    "id": "9279267111080",
+    "title": "Non-Alcoholic Beer Mix Pack",
+    "handle": "non-alcoholic-beer-mix-pack",
+    "product_type": "",
+    "tags": [
+      "__label:NEW",
+      "Non-Alcoholic"
+    ],
+    "available": true,
+    "price_from": 47.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-beer-mix-pack"
+  },
+  {
+    "id": "7653427413160",
+    "title": "Non-Alcoholic Emerald Stout",
+    "handle": "non-alcoholic-emerald-stout",
+    "product_type": "non-alc",
+    "tags": [
+      "dark",
+      "non-alc",
+      "non-alc beer",
+      "sober"
+    ],
+    "available": true,
+    "price_from": 2.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-emerald-stout"
+  },
+  {
+    "id": "9209238716584",
+    "title": "Non-Alcoholic Emerald Stout (355ml 4-Pack)",
+    "handle": "non-alcoholic-emerald-stout-355ml-4-pack",
+    "product_type": "non-alc",
+    "tags": [
+      "__label:SALE",
+      "classics",
+      "non-alc",
+      "non-alc beer"
+    ],
+    "available": true,
+    "price_from": 9.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-emerald-stout-355ml-4-pack"
+  },
+  {
+    "id": "8099566485672",
+    "title": "Non-Alcoholic Guava Gose",
+    "handle": "non-alcoholic-guava-gose",
+    "product_type": "non-alc",
+    "tags": [
+      "non-alc",
+      "non-alc beer",
+      "sour",
+      "sours"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-guava-gose"
+  },
+  {
+    "id": "7631804858536",
+    "title": "Non-Alcoholic Hazy Pale Ale",
+    "handle": "non-alcoholic-hazy-pale-ale",
+    "product_type": "non-alc",
+    "tags": [
+      "IPA",
+      "IPAs",
+      "non-alc",
+      "non-alc beer",
+      "sober"
+    ],
+    "available": true,
+    "price_from": 2.75,
+    "collections": [
+      "all",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-hazy-pale-ale"
+  },
+  {
+    "id": "9209594511528",
+    "title": "Non-Alcoholic Hazy Pale Ale (355ml 4-Pack)",
+    "handle": "non-alcoholic-emerald-stout-355ml-4-pack-copy",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "__label:SALE",
+      "classics",
+      "core",
+      "IPA"
+    ],
+    "available": true,
+    "price_from": 8.95,
+    "collections": [
+      "all",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-emerald-stout-355ml-4-pack-copy"
+  },
+  {
+    "id": "7667169231016",
+    "title": "Non-Alcoholic IPA",
+    "handle": "non-alcoholic-ipa",
+    "product_type": "non-alc",
+    "tags": [
+      "IPA",
+      "IPAs",
+      "non-alc",
+      "non-alc beer",
+      "sober"
+    ],
+    "available": false,
+    "price_from": 2.95,
+    "collections": [
+      "all",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/non-alcoholic-ipa"
+  },
+  {
+    "id": "9218786427048",
+    "title": "Notebook | James Carey",
+    "handle": "notebook-james-carey-1",
+    "product_type": "",
+    "tags": [
+      "__label:NEW",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 12.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/notebook-james-carey-1"
+  },
+  {
+    "id": "9212080947368",
+    "title": "Notebook | Yukai Du",
+    "handle": "notebook-yukai-du",
+    "product_type": "",
+    "tags": [
+      "__label:NEW",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 12.99,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/notebook-yukai-du"
+  },
+  {
+    "id": "9173017198760",
+    "title": "Origin of Darkness 2025: Bourbon Barrel\u2011Aged Coffee Stout",
+    "handle": "origin-of-darkness-2025-bourbon-barrel-aged-coffee-stout",
+    "product_type": "Beer",
+    "tags": [
+      "dark",
+      "limited",
+      "OOD2025",
+      "Origin of Darkness"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/origin-of-darkness-2025-bourbon-barrel-aged-coffee-stout"
+  },
+  {
+    "id": "9173058650280",
+    "title": "Origin of Darkness 2025: Espresso Martini",
+    "handle": "origin-of-darkness-2025-espresso-martini",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Bar Strength Series",
+      "cocktail",
+      "cocktails",
+      "dark",
+      "limited",
+      "OOD2025",
+      "Origin of Darkness"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/origin-of-darkness-2025-espresso-martini"
+  },
+  {
+    "id": "9173023555752",
+    "title": "Origin of Darkness 2025: Nitro Coffee Stout",
+    "handle": "origin-of-darkness-2025-nitro-coffee-stout",
+    "product_type": "Beer",
+    "tags": [
+      "dark",
+      "limited",
+      "OOD2025",
+      "Origin of Darkness"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/origin-of-darkness-2025-nitro-coffee-stout"
+  },
+  {
+    "id": "9173026504872",
+    "title": "Origin of Darkness 2025: Non\u2011Alc Coffee Stout",
+    "handle": "origin-of-darkness-2025-non-alc-coffee-stout",
+    "product_type": "non-alc",
+    "tags": [
+      "dark",
+      "limited",
+      "non-alc",
+      "non-alc beer",
+      "OOD2025",
+      "Origin of Darkness"
+    ],
+    "available": true,
+    "price_from": 3.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/origin-of-darkness-2025-non-alc-coffee-stout"
+  },
+  {
+    "id": "8211478020264",
+    "title": "Passion Mojito Rum Cocktail",
+    "handle": "passion-mojito-rum-cocktail",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "host",
+      "warehouse"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/passion-mojito-rum-cocktail"
+  },
+  {
+    "id": "7861803548840",
+    "title": "Perpetual Paloma | Zero Proof Cocktail",
+    "handle": "perpetual-paloma-zero-proof-cocktail",
+    "product_type": "non-alc",
+    "tags": [
+      "art",
+      "host",
+      "non-alc",
+      "sober",
+      "Zero Proof"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/perpetual-paloma-zero-proof-cocktail"
+  },
+  {
+    "id": "9189415846056",
+    "title": "Product Name (Inventory Tracking)",
+    "handle": "product-name-inventory-tracking",
+    "product_type": "",
+    "tags": [],
+    "available": true,
+    "price_from": 0.0,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/product-name-inventory-tracking"
+  },
+  {
+    "id": "8484314677416",
+    "title": "Promo Postcard",
+    "handle": "promo-postcard",
+    "product_type": "Promo",
+    "tags": [],
+    "available": true,
+    "price_from": 0.0,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/promo-postcard"
+  },
+  {
+    "id": "5286420381864",
+    "title": "Ransack the Universe West Coast Style IPA",
+    "handle": "ransack-the-universe-ipa",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "classics",
+      "core",
+      "hamiltonbrew",
+      "IPA"
+    ],
+    "available": true,
+    "price_from": 3.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa"
+    ],
+    "url": "https://collectiveartscreativity.com/products/ransack-the-universe-ipa"
+  },
+  {
+    "id": "8143294857384",
+    "title": "Raspberry Lime MAX (140mg) | Wide Eyed Energy",
+    "handle": "max-140mg-raspberry-lime-wide-eyed-energy",
+    "product_type": "Wide Eyed Energy",
+    "tags": [
+      "Max",
+      "non-alc",
+      "WideEyed"
+    ],
+    "available": true,
+    "price_from": 3.25,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/max-140mg-raspberry-lime-wide-eyed-energy"
+  },
+  {
+    "id": "9209732399272",
+    "title": "Red Sangria Spritz",
+    "handle": "red-sangria-spritz-bf",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "__label:SALE",
+      "cocktail",
+      "cocktails",
+      "rtd",
+      "Sale!",
+      "Sangria"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/red-sangria-spritz-bf"
+  },
+  {
+    "id": "9203036324008",
+    "title": "Rent Collector Nitro Pale Ale | Art Reserve",
+    "handle": "rent-collector-nitro-pale-ale-art-reserve-1",
+    "product_type": "Beer",
+    "tags": [
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 5.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/rent-collector-nitro-pale-ale-art-reserve-1"
+  },
+  {
+    "id": "5286200836264",
+    "title": "Rhubarb & Hibiscus Gin",
+    "handle": "rhubarb-hibiscus-gin",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Gin",
+      "host",
+      "mixmaster",
+      "spirits"
+    ],
+    "available": true,
+    "price_from": 49.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/rhubarb-hibiscus-gin"
+  },
+  {
+    "id": "9043438665896",
+    "title": "Ros\u00e9 Sangria Spritz",
+    "handle": "rose-sangria-spritz",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "rtd",
+      "Sangria"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/rose-sangria-spritz"
+  },
+  {
+    "id": "9208312725672",
+    "title": "Ruby Striker DIPA with Grapefruit",
+    "handle": "ruby-striker-ipa",
+    "product_type": "Beer",
+    "tags": [
+      "__label:NEW",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 4.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/ruby-striker-ipa"
+  },
+  {
+    "id": "8423270875304",
+    "title": "SkinnyCap Lemon & Raspberry Mix Pack",
+    "handle": "skinnycap-lemon-raspberry-mix-pack",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "mixpack",
+      "rtd"
+    ],
+    "available": true,
+    "price_from": 24.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/skinnycap-lemon-raspberry-mix-pack"
+  },
+  {
+    "id": "6268693381288",
+    "title": "Snack",
+    "handle": "snack",
+    "product_type": "",
+    "tags": [
+      "_hidden",
+      "snack"
+    ],
+    "available": true,
+    "price_from": 0.05,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/snack"
+  },
+  {
+    "id": "9236354433192",
+    "title": "Snow & Mirth | Art Reserve",
+    "handle": "snow-mirth-art-reserve",
+    "product_type": "Beer",
+    "tags": [
+      "__label:NEW",
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/snow-mirth-art-reserve"
+  },
+  {
+    "id": "5602020491432",
+    "title": "Stranger Than Fiction Porter",
+    "handle": "stranger-than-fiction-porter",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "coffeelover",
+      "core",
+      "craft",
+      "dark",
+      "hamiltonbrew",
+      "stout"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "beer-cider"
+    ],
+    "url": "https://collectiveartscreativity.com/products/stranger-than-fiction-porter"
+  },
+  {
+    "id": "9209545326760",
+    "title": "Strawberry Lemonade Sour",
+    "handle": "strawberry-lemonade-sour-copy",
+    "product_type": "Beer",
+    "tags": [
+      "__label:PRICE DROP",
+      "__label:SALE",
+      "limited",
+      "Sale!",
+      "sour",
+      "sours"
+    ],
+    "available": true,
+    "price_from": 2.3,
+    "collections": [
+      "all",
+      "beer-cider",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/strawberry-lemonade-sour-copy"
+  },
+  {
+    "id": "8946525470888",
+    "title": "Summer Haze Mix Pack",
+    "handle": "summer-haze-mix-pack",
+    "product_type": "Beer & Cider",
+    "tags": [
+      "__label:SALE",
+      "classics",
+      "core",
+      "craft",
+      "IPA",
+      "limited",
+      "mixpack"
+    ],
+    "available": true,
+    "price_from": 18.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/summer-haze-mix-pack"
+  },
+  {
+    "id": "9209741836456",
+    "title": "Summit Peak West Coast Style IPA",
+    "handle": "summit-peak-west-coast-style-ipa-bf",
+    "product_type": "Beer",
+    "tags": [
+      "__label:SALE",
+      "IPA",
+      "IPAs",
+      "limited",
+      "Sale!"
+    ],
+    "available": true,
+    "price_from": 4.95,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/summit-peak-west-coast-style-ipa-bf"
+  },
+  {
+    "id": "9202827460776",
+    "title": "Surround Sound DIPA | Art Reserve",
+    "handle": "surround-sound-dipa-art-reserve",
+    "product_type": "Beer",
+    "tags": [
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/surround-sound-dipa-art-reserve"
+  },
+  {
+    "id": "9236365672616",
+    "title": "Thank You, Terminator | Art Reserve",
+    "handle": "thank-you-terminator-art-reserve",
+    "product_type": "Beer",
+    "tags": [
+      "__label:NEW",
+      "Art Reserve",
+      "IPA",
+      "IPAs",
+      "limited"
+    ],
+    "available": true,
+    "price_from": 6.25,
+    "collections": [
+      "all",
+      "beer-cider",
+      "ipa",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/thank-you-terminator-art-reserve"
+  },
+  {
+    "id": "9177911230632",
+    "title": "Turbo Bambi | Tumbler Glass",
+    "handle": "turbo-bambi-tumbler-glass",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/turbo-bambi-tumbler-glass"
+  },
+  {
+    "id": "9043458326696",
+    "title": "Watermelon Margarita Bar Strength Cocktail",
+    "handle": "watermelon-margarita-bar-strength-cocktail",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Bar Strength Series",
+      "cocktail",
+      "cocktails",
+      "limited",
+      "rtd"
+    ],
+    "available": true,
+    "price_from": 5.95,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/watermelon-margarita-bar-strength-cocktail"
+  },
+  {
+    "id": "9190594183336",
+    "title": "White Port Barrel-Aged Rye",
+    "handle": "white-port-barrel-aged-rye-2025",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "Gin",
+      "limited",
+      "Rye"
+    ],
+    "available": true,
+    "price_from": 78.5,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/white-port-barrel-aged-rye-2025"
+  },
+  {
+    "id": "8476541026472",
+    "title": "White Sangria Spritz",
+    "handle": "white-sangria-spritz",
+    "product_type": "Spirits & Cocktails",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "rtd",
+      "Sangria"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/white-sangria-spritz"
+  },
+  {
+    "id": "8880835788968",
+    "title": "Wild Berry Lime Cosmo",
+    "handle": "wild-berry-lime-cosmo",
+    "product_type": "",
+    "tags": [
+      "cocktail",
+      "cocktails",
+      "rtd"
+    ],
+    "available": true,
+    "price_from": 3.75,
+    "collections": [
+      "all",
+      "new-release"
+    ],
+    "url": "https://collectiveartscreativity.com/products/wild-berry-lime-cosmo"
+  },
+  {
+    "id": "9177891504296",
+    "title": "cris.is.in.crisis | Tumbler Glass",
+    "handle": "cristian-alarcon-tumbler-glass",
+    "product_type": "Glassware",
+    "tags": [
+      "art collector",
+      "craft",
+      "glass",
+      "glassware",
+      "host",
+      "merch"
+    ],
+    "available": true,
+    "price_from": 11.95,
+    "collections": [
+      "all"
+    ],
+    "url": "https://collectiveartscreativity.com/products/cristian-alarcon-tumbler-glass"
+  }
+]

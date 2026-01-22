@@ -1,0 +1,6 @@
+sku,product_name,category,pack_size,active_flag
+BEER_LAGER_6PK,Classic Lager 6-Pack,Beer,6PK,1
+BEER_IPA_4PK,Hoppy IPA 4-Pack,Beer,4PK,1
+BEER_STOUT_6PK,Midnight Stout 6-Pack,Beer,6PK,1
+ALE_PALE_6PK,Sunny Pale Ale 6-Pack,Beer,6PK,1
+UNKNOWN_SKU_999,Discontinued Brew,Legacy,4PK,0

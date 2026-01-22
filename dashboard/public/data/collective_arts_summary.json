@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-01-22T03:12:13Z",
+  "total_products": 109,
+  "beer_like_total": 37,
+  "beer_like_available": 35,
+  "beer_like_sold_out": 2,
+  "collection_counts": {
+    "all": 109,
+    "beer-cider": 32,
+    "ipa": 18,
+    "new-release": 44
+  },
+  "collection_available_counts": {
+    "all": 101,
+    "beer-cider": 31,
+    "ipa": 16,
+    "new-release": 40
+  }
+}

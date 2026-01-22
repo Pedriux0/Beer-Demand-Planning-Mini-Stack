@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# Data (keep gitkeep if needed, but ignore actual data generally, though for this project we might want to check in sample data as per repo requirements "Create a high-signal Git commit history")
+# The user wants "data/raw (messy CSV samples)" in the repo.
+# So I will NOT ignore data/raw for now.
+# But I might ignore large generated outputs if they were real, but user wants "outputs... committed or published".
+# So I will actually keep most things, maybe strict ignore for temp files.
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
