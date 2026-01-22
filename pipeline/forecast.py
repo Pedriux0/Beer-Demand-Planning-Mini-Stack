@@ -56,7 +56,7 @@ def train_forecast_model(df: pd.DataFrame):
         mape_ml = mean_absolute_percentage_error(y_test_safe, y_pred)
         
         # Baseline eval
-        baseline_preds = test['baseline_forecast'].fillna(method='bfill').fillna(0)
+        baseline_preds = test['baseline_forecast'].bfill().fillna(0)
         mape_baseline = mean_absolute_percentage_error(y_test_safe, baseline_preds)
         
         # Select best
